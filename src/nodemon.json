@@ -1,0 +1,6 @@
+{
+  "watch": ["*.py"],
+  "ext": "py",
+  "ignore": ["*.txt"],
+  "exec": "py main.py"
+}
